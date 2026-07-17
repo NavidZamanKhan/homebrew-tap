@@ -1,6 +1,6 @@
 cask "clipped" do
   version "0.1.0"
-  sha256 b05d9f6de2591faab302162b7b706978811f6351de008326a6f98efda6e92dd9
+  sha256 "b05d9f6de2591faab302162b7b706978811f6351de008326a6f98efda6e92dd9"
 
   url "https://github.com/NavidZamanKhan/Clipped/releases/download/v0.1.0/Clipped.dmg"
   name "Clipped"
